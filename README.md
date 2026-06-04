@@ -4,7 +4,7 @@ This library is a highly modular, clean, and extensible Python machine learning 
 
 It implements end-to-end data pipelines incorporating advanced programming paradigms, clean architecture, and standard software patterns.
 
-## 🚀 Installation & Local Setup
+## Installation & Local Setup
 
 To install this package locally in editable/development mode, navigate to the project root directory where `pyproject.toml` is located and run:
 
